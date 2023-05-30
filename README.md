@@ -1,2 +1,3 @@
-# wsa-apk-installer
-wsa, android, apk, install, kurulum, wsl, uygulama
+Windows Android Aplikasyon Kurmak 
+Wsa Apk Installer
+Kolay ve Hızlı
